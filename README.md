@@ -12,13 +12,7 @@
 
 <h3>About Me | </h3>
 <div style="color: gray; font-family: sans-serif;">
-  <style>
-    .highlight {
-      color: white;
-      font-weight: bold;
-      text-decoration: none;
-    }
-  </style>
+  
   <p>
     👨‍💻 I'm a passionate **[MERN stack developer](#)** and 🤖 **[AI/ML enthusiast](#)**, building scalable web applications and innovative solutions.  
 🎓 Currently pursuing **[Computer Science Engineering at ADCET](#)**, I've worked on projects like 📚 **[NoteCafe](#)**, ✈️ **[Wanderlust](#)**, and 🌿 **[Plant Disease Detection platform](#)**.  
