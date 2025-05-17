@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreyas Wagire and I'm a Student, from India</h2>
+<h2 align="left">Hi 👋! My name is Shreyas Wagire</h2>
 
 ###
 
