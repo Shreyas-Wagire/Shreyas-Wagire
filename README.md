@@ -20,13 +20,10 @@
     }
   </style>
   <p>
-    👨‍💻 I'm a passionate <a class="highlight" href="https://github.com/shreyas-wagire">MERN stack developer</a> and 🤖 <a class="highlight" href="#">AI/ML enthusiast</a>, building scalable web applications and innovative solutions. 
-    🎓 Currently pursuing <a class="highlight" href="https://www.adcet.ac.in/">Computer Science Engineering at ADCET</a>, I've worked on projects like 
-    📚 <a class="highlight" href="https://notecafe.vercel.app/">NoteCafe</a>, ✈️ <a class="highlight" href="https://github.com/Shreyas-Wagire/WanderLust-Travling-Site">Wanderlust</a>, and 🌿 a 
-    <a class="highlight" href="#">Plant Disease Detection platform</a>. I actively contribute to 
-    🌍 <a class="highlight" href="https://devpost.com/">open source</a>, participate in 🏆 <a class="highlight" href="#">hackathons</a>, and manage tech communities. 
-    🚀 As a <a class="highlight" href="https://gdg.community.dev/">Web Developer at GDG Cloud Club</a> and 
-    🧑‍🏫 <a class="highlight" href="#">Student Training Program Coordinator</a>, I love collaborating, learning, and creating impactful projects.
+    👨‍💻 I'm a passionate **[MERN stack developer](#)** and 🤖 **[AI/ML enthusiast](#)**, building scalable web applications and innovative solutions.  
+🎓 Currently pursuing **[Computer Science Engineering at ADCET](#)**, I've worked on projects like 📚 **[NoteCafe](#)**, ✈️ **[Wanderlust](#)**, and 🌿 **[Plant Disease Detection platform](#)**.  
+🌍 I actively contribute to **[open source](#)**, participate in 🏆 **[hackathons](#)**, and manage tech communities.  
+🚀 As a **[Web Developer at GDG Cloud Club](#)** and 🧑‍🏫 **[Student Training Program Coordinator](#)**, I love collaborating, learning, and creating impactful projects.
   </p>
 </div>
 
