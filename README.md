@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Shreyas Wagire</h2>
-
-###
-
 
 
 <div align="center">
